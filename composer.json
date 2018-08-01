@@ -1,0 +1,14 @@
+{
+    "name": "twitter_app/twitter_app",
+    "description": "test project",
+    "authors": [
+        {
+            "name": "Aleksey",
+            "email": "aleksey.derevyanko81@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "abraham/twitteroauth": "^0.9.2"
+    }
+}
